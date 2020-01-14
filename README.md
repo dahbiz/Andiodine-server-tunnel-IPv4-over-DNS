@@ -46,6 +46,7 @@ as root.
 Excellent! Excellent! Excellent! Now lets move to Andiodine client side. 
 
 ### Andiodine android
+Downlaod [Iodine client](https://f-droid.org/en/packages/org.xapek.andiodine/)  for android 4.+.
 
 ![Andiodine client](https://raw.githubusercontent.com/etriZiko/Andiodine-server/master/Iodine.jpg)
 
