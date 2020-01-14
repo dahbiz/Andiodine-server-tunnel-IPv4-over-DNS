@@ -45,4 +45,5 @@ as root.
 
 Excellent! Excellent! Excellent! 
 
-then Press Ctrl+ C
+### AUTHOR
+This is a simplified tutorial provided by  **Zakaria Dahbi**. Email: etriziko@gmail.com.
