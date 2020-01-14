@@ -43,7 +43,7 @@ as root.
            
 **9999** is the password, you can change it.
 
-Excellent! Excellent! Excellent!
+Excellent! Excellent! Excellent! Now lets move to Andiodine client side. 
 
 ### Andiodine android
 
