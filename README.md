@@ -27,9 +27,9 @@ as root.
            ♯ apt-get install iodine
            
 ### Enable IPv4 IP forwarding
-
+```
            ♯ sysctl -w net.ipv4.ip_forward=1
-           
+```          
 ### Firewall rules
            
            ♯ /sbin/iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
