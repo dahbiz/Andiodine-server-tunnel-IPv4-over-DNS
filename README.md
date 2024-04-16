@@ -53,4 +53,4 @@ Downlaod [iodine client](https://f-droid.org/en/packages/org.xapek.andiodine/)  
 Connect and enjoy the freedom!
 
 ### AUTHOR MESSAGE
-This is a simplified tutorial provided by Zakaria Dahbi (etriziko@gmail.com). Please keep in mind that this is only for educational reasons and should not be used to facilitate illegal traffic or to hurt others.
+Please keep in mind that this is only for educational reasons and should not be used to facilitate illegal traffic or to hurt others.
